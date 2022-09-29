@@ -13,10 +13,10 @@ Using Pandas and Matplotlib a multiple-line graph is created that shows the tota
 On plotting the above data the visualization look like below
 ![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
 
-# # Summar
+# # Summary
 
 - Based on the graph and data Analysis performed it can be suggested that Urban cities fetch more revenue whereas the drivers get more profit in Rural cities.
 
-- The driver count in the urban cities can be reduced as the number of rides are less than the number of drivers count, This can increase average fare price fetching profit to the company. 
+- The driver count in the urban cities can be reduced as the number of rides are less than the number of drivers count, This can increase average fare price fetching profit to the company.
 
 
